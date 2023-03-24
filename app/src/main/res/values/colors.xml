@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primaryColor">#fce4ec</color>
+    <color name="primaryLightColor">#ffffff</color>
+    <color name="primaryDarkColor">#c9b2ba</color>
+    <color name="secondaryColor">#f3e5f5</color>
+    <color name="secondaryLightColor">#ffffff</color>
+    <color name="secondaryDarkColor">#c0b3c2</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="chip_backgroundTint">#32FFFFFF</color>
+</resources>

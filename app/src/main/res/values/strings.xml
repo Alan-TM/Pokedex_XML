@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="app_pokemon_list_search_box_hint">Search…</string>
+
+    <!-- Error strings -->
+    <string name="app_error_server_error_title">Service unavailable</string>
+    <string name="app_error_server_error_message">Sorry, seems like services are unavailable at the moment.\nPlease try again later</string>
+    <string name="app_error_socket_error_title">Oops, loading failed</string>
+    <string name="app_error_socket_error_message">Seems like there\'s no internet.\nEnsure that you have a stable internet connection</string>
+</resources>
